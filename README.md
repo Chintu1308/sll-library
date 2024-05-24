@@ -1,5 +1,5 @@
 # SLL Library
-This is a single-linked list library that provides various operations on single-linked lists. Brary to visualize and interact with a singly linked list using animations.
+This is a single-linked list library that provides various operations on the single-linked lists library to visualize and interact with a single-linked list using animations.
 Go to the link to experience the animation ->  https://chintu1308.github.io/sll-library/src
 
 ## Installation 1
@@ -26,7 +26,7 @@ Include the following HTML structure to your webpage where you want the linked l
 ```
 **Method2: Add as a Button**
 add a button as follows
-```html
+```HTML
 <button onclick="openAnimation()">Open Linked List Animation</button>
 ```
 and add the following function to your javascript
