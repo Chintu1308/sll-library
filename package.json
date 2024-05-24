@@ -1,0 +1,33 @@
+{
+  "name": "sll-library",
+  "version": "1.0.2",
+  "description": "Easy to import Linked list",
+  "main": "dist/js/sllpractice.min.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chintu1308/sll-library-.git"
+  },
+  "files": [
+    "dist/",
+    "static/img/"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "terser": "^5.0.0"
+  },
+  "keywords": [
+    "linked list",
+    "data structure",
+    "javascript"
+  ],
+  "author": "Hari Hara Charan",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Chintu1308/sll-library-/issues"
+  },
+  "homepage": "https://github.com/Chintu1308/sll-library-#readme"
+}
