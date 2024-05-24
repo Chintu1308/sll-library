@@ -1,6 +1,6 @@
 # SLL Library
-This is a single-linked list library that provides various operations on single-linked lists.brary to visA liualize and interact with a singly linked list using animations.
-Go to the link to experiance the animation ->  https://chintu1308.github.io/sll-library/src
+This is a single-linked list library that provides various operations on single-linked lists. Brary to visualize and interact with a singly linked list using animations.
+Go to the link to experience the animation ->  https://chintu1308.github.io/sll-library/src
 
 ## Installation 1
 You can install this library via npm:
@@ -25,7 +25,7 @@ Include the following HTML structure to your webpage where you want the linked l
 <iframe src="https://chintu1308.github.io/sll-library/dist" width="650" height="400" frameborder="0"  allowfullscreen></iframe>
 ```
 **Method2: Add as a Button**
-add a button as followed
+add a button as follows
 ```html
 <button onclick="openAnimation()">Open Linked List Animation</button>
 ```
@@ -39,7 +39,7 @@ function openAnimation() {
 
 **Embedding in a Web Application**
 
-If you want to add the animation to a web application, such as one built with React, Vue, or Angular, you can use a similar approach with the iframe. Here's an example for a React application:
+If you want to add animation to a web application, such as one built with React, Vue, or Angular, you can use a similar approach with the iframe. Here's an example for a React application:
 
 ```jsx
 
@@ -60,14 +60,14 @@ export default LinkedListAnimation;
 For mobile applications, you can use a WebView component to load the animation. Below are examples for both Android and iOS:
 
 Android (using WebView):
-***1.Add WebView dependency to your build.gradle file:***
+***1. Add WebView dependency to your build.gradle file:***
 
 ```gradle
 dependencies {
     implementation 'androidx.webkit:webkit:1.4.0'
 }
 ```
-***2.Create a WebView in your layout XML file:***
+***2. Create a WebView in your layout XML file:***
 ```xml
 <WebView
     android:id="@+id/webview"
@@ -75,7 +75,7 @@ dependencies {
     android:layout_height="match_parent" />
 ```
 
-***3.Load the URL in your Activity:***
+***3. Load the URL in your Activity:***
 
 ```java
 import android.os.Bundle;
